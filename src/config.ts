@@ -42,7 +42,7 @@ Never forget how special you are. May your birthday bring you everything that ma
 Happy Birthday, Shivani. You deserve a beautiful life filled with love, laughter, and dreams that come true.
 
 With lots of love,
-Your special person ❤️`,
+Your little Babbyy (Rupesh) ❤️`,
   extraLetter: "You make ordinary days feel a little more magical. I'm so glad this little corner of the internet gets to celebrate you.",
   photos: [
     { src: "/photos/Shivani-1.PNG", caption: "My favorite picture ❤️", date: "A special memory", album: "Beautiful smile" },
