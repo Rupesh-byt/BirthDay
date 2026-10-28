@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 760" role="img" aria-labelledby="title desc">
+  <title id="title">Photo placeholder</title>
+  <desc id="desc">Soft pink illustration to replace with a favorite birthday photo.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8d7e6"/>
+      <stop offset=".52" stop-color="#e7d8f6"/>
+      <stop offset="1" stop-color="#ffe8d9"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#fff8f3" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#fff8f3" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="760" fill="url(#bg)"/>
+  <circle cx="105" cy="145" r="155" fill="url(#glow)"/>
+  <circle cx="515" cy="575" r="190" fill="url(#glow)"/>
+  <path d="M92 648c53-132 113-199 208-199s155 67 208 199" fill="#fff8f3" fill-opacity=".52"/>
+  <circle cx="300" cy="302" r="106" fill="#fff8f3" fill-opacity=".56"/>
+  <path d="M300 358s-90-53-90-111c0-45 58-62 90-20 32-42 90-25 90 20 0 58-90 111-90 111z" fill="#e783a5" fill-opacity=".78"/>
+  <text x="300" y="706" text-anchor="middle" fill="#8f617a" font-family="Georgia,serif" font-size="23">Your favorite memories go here</text>
+</svg>
